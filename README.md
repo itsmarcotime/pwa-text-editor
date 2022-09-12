@@ -5,3 +5,4 @@ This repo is a progressive web application or pwa. the app is split into two sec
 https://github.com/itsmarcotime/pwa-text-editor
 
 ## heroku link
+https://fathomless-brushlands-01408.herokuapp.com/
